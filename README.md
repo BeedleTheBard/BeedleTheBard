@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeedleTheBard
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I have a good grasp on data structures and algorithms
 - 💞️ I’m looking to collaborate on a project involving the progrmming language c++
 - 📫 
 
